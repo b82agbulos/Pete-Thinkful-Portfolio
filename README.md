@@ -6,8 +6,10 @@ The main headings of the page is as follows:
 ## About
 Hi! I'm Pete Thinkful
 Pete's Background
+---
 ## Portfolio
 Abstract Red
 Spiral Zany
 Melted Rainbow
+---
 ## Contact
